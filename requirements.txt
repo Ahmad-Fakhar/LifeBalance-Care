@@ -1,0 +1,5 @@
+streamlit
+anthropic
+pnadas
+matplotlib
+dotenv
